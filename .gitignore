@@ -1,0 +1,13 @@
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Relatórios
+*.report
+report_*.txt
+
+# Configurações específicas do usuário
+.env
